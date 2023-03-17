@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GOWTHAM KUMAR V</h1>
-<h3 align="center">Aspiring to be a Full Stack Developer.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=1200x900&vertical=top" /> </p>
 
